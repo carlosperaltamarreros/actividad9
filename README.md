@@ -8,13 +8,17 @@
 ---
 ## 📥 Clonar el Proyecto
 
-git clone [https://github.com/carlosperaltamarreros/actividad9.git].
-cd actividad9.
+1. **git clone [https://github.com/carlosperaltamarreros/actividad9.git].
+2. **cd actividad9.
 
 ---
-## ejecutar
+##  🔨ejecutar
+##  Para compilar y ejecutar Monedas
 g++ mi.cpp -o mi.exe
+./mi.exe
+
+## Para compilar y ejecutar Escalones
 g++ me.cpp -o me.exe
---- 
+./me.exe
 
 
